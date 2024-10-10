@@ -1,7 +1,7 @@
 # Week Report 3
 ## Completed work for week 3
 + [lab3.md](https://github.com/Anthony-C-Rosario/cis106/blob/main/labs/lab3/lab3.md)
-+ Link to notes3.md
++ [notes3](https://github.com/Anthony-C-Rosario/cis106/blob/main/notes/notes3/notes3.md)
 
 ## Practice
     ### Practice 1
