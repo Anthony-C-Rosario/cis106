@@ -1,11 +1,11 @@
 # Week Report 3
 ## Completed work for week 3
-    + Link to lab3.md (you have not created this file yet therefore you need to create this file and put some place holder text in it)
-    + Link to notes3.md
++ [lab3.md](https://github.com/Anthony-C-Rosario/cis106/blob/main/labs/lab3/lab3.md)
++ Link to notes3.md
 
 ## Practice
     ### Practice 1
-        ![p1](p1.png)
+![p1](p1.png)
     ### Practice 2
         ![p2](p2.png)
     ### Practice 3
