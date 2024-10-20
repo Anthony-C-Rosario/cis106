@@ -4,7 +4,8 @@
 + [notes3](https://github.com/Anthony-C-Rosario/cis106/blob/main/notes/notes3/notes3.md)
 
 ## Practice
-    ### Practice 1
+
+### Practice 1
 ![p1](p1.png)
     ### Practice 2
         ![p2](p2.png)
