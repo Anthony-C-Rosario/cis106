@@ -12,12 +12,6 @@ Instructor: R. Alberto
 ## Ubuntu Login Screen
 ![login](ubuntu-server-login.png)
 
-## Server Specifications
-![Server](server-specs.png)
-
-## Ubuntu Login Screen
-![login](ubuntu-server-login.png)
-
 ## Questions
 3. **What is the IP address of your Ubuntu Server Virtual Machine?**
    
